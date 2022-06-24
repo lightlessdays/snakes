@@ -4,7 +4,7 @@
 
 ## Play the Game
 
-To play the game, [click here](https://lightlessdays.github.io/snakes-2d/)
+To play the game, [click here](https://lightlessdays.github.io/snakes/)
 
 ## How to Play?
 
