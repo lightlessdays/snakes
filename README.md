@@ -2,6 +2,8 @@
 
 ![banner](https://raw.githubusercontent.com/lightlessdays/img/main/galaxyshooter2d/Your%20paragraph%20text%20(1).png)
 
+Snake is a video game genre where the player maneuvers a growing line that becomes a primary obstacle to itself. This is based on the classic game- Blockade.
+
 ## Gameplay
 
 To play the game, [click here](https://lightlessdays.github.io/snakes/). For complete tutorial, [click here](https://medium.com/@lightlessdays/making-classic-2d-games-in-unity-snake-8b6eebc4d868).
