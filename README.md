@@ -6,7 +6,7 @@ Snake is a video game genre where the player maneuvers a growing line that becom
 
 ## Gameplay
 
-To play the game, [click here](https://lightlessdays.github.io/snakes/). For complete tutorial, [click here](https://medium.com/@lightlessdays/making-classic-2d-games-in-unity-snake-8b6eebc4d868).
+To play the game, [click here](https://lightlessdays.github.io/snakes/). For complete tutorial, [click here](https://lightlessdays.medium.com/making-classic-2d-games-in-unity-snake-8b6eebc4d868?source=friends_link&sk=2f0be2ccee57c4ae25599e9b3095d0a1).
 
 ## How to Play?
 
